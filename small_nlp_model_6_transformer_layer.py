@@ -166,7 +166,7 @@ class Block(nn.Module):
 
 Transformer Block -> **Encoder Block** + Decoder Block
 
-تنها بلاک انکودر را دارند  GPT بسیاری از مدل های تولید متن مثل
+تنها بلاک انکودر را دارند  BERT بسیاری از مدل های تولید متن مثل
 
 میگویند Encoder_Only اصطلاحا به این مدل ها
 
