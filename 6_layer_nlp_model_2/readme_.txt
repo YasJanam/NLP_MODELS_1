@@ -1,6 +1,6 @@
-__پروژه : مدل زبانی 6 لایه__
+پروژه : مدل زبانی 6 لایه
 
-__project_Code : 6_Layer_nlp_model_2.ipynb__ (or py)
+project_Code : 6_Layer_nlp_model_2.ipynb (or py)
 
 مدل ها : ترنسفورمر , خطی , دراپ, نورمالیزیشن, امبدینگ ها
 
