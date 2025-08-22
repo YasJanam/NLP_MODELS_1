@@ -1,5 +1,7 @@
  ### پروژه : مدل زبانی 6 لایه
 
+__project : Text_Generation__
+
  __project_Code :  6_Layer_nlp_model_2.ipynb  (or py)__
 
 __مدل ها : ترنسفورمر , خطی , دراپ, نورمالیزیشن, امبدینگ ها__
