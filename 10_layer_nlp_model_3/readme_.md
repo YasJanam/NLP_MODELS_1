@@ -2,12 +2,12 @@
 
 num_layers = 10 layer
 
-__layers : Transformer , Conv1D(kernel_sizes=3,5) , Linear_Layers(MLP)__
+layers : Transformer , Conv1D(kernel_sizes=3,5) , Linear_Layers(MLP)
 
-__Model_Architecture : Conv1D(#2) -> TransformerLayer(#5) -> MLPBlock(#2) -> TransformerLayer(#1)__
+Model_Architecture : Conv1D(#2) -> TransformerLayer(#5) -> MLPBlock(#2) -> TransformerLayer(#1)
 
-__tokenizer : GPT2TokenizerFast.from_pretrained("gpt2")__
+tokenizer : GPT2TokenizerFast.from_pretrained("gpt2")
 
-__requirements : pytorch_lightning , torch.utils.data(Dataset, DataLoader) , transformers(GPT2TokenizerFast) , datasets(load_dataset)__
+requirements : pytorch_lightning , torch.utils.data(Dataset, DataLoader) , transformers(GPT2TokenizerFast) , datasets(load_dataset)
 
-__dataset : "ag_news"__
+dataset : "ag_news"
