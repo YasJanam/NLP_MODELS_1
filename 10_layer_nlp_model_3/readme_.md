@@ -1,6 +1,6 @@
 ## 10_layer_nlp_model_3
 
-__num_layers = 10 layer__
+num_layers = 10 layer
 
 __layers : Transformer , Conv1D(kernel_sizes=3,5) , Linear_Layers(MLP)__
 
