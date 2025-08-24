@@ -1,6 +1,6 @@
 # NLP_MODELS
 ## PROJECTS
-### project 3 (text-classification) : 10_layer_nlp_model_3
+### project 3 : 10_layer_nlp_model_3
 
 requirements : pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_dataset
 
