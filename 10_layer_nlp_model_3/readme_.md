@@ -1,7 +1,5 @@
 ## 10_layer_nlp_model_3
 
-project : Text_Classification
-
 num_layers = 10 layer
 
 layers : Transformer , Conv1D(kernel_sizes=3,5) , Linear_Layers(MLP)
