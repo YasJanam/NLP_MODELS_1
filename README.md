@@ -2,6 +2,7 @@
 ## PROJECTS
 ### mini-project 4 : Labratory_4
 بررسی عملکر مدل با معماری های مختلف و تغییر اندازه دیتای آموزش 
+
 مدل پایه این آزمایش ,دهمان مدل پروژه 10_layer_nlp_model_3 است.
 ### mini-project 3 : 10_layer_nlp_model_3
 
