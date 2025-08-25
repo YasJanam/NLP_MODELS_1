@@ -1,7 +1,7 @@
 ### Labratory_1
 این کد آزمایش مدل کد 3 این ریپازیتوری است.در حقیقت مدل کد 3 رو با تغییر تعداد لایه و تعداد داده آموزشی چندین بار آموزش میدهیم .
 
-main_model : 10_layer_nlp_model_3
+main_model : __10_layer_nlp_model_3__
 ### results :
 
 <img width="1172" height="490" alt="image" src="https://github.com/user-attachments/assets/bcdab247-3b64-4cd6-83dc-d570f8ffa039" />
