@@ -1,6 +1,9 @@
 # NLP_MODELS
 ## PROJECTS
-### project 3 : 10_layer_nlp_model_3
+### mini-project 4 : Labratory_4
+بررسی عملکر مدل با معماری های مختلف و تغییر اندازه دیتای آموزش 
+مدل پایه این آزمایش ,دهمان مدل پروژه 10_layer_nlp_model_3 است.
+### mini-project 3 : 10_layer_nlp_model_3
 
 requirements : pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_dataset
 
@@ -9,7 +12,7 @@ requirements : pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_d
 Dataset : "ag_news"
 
 Tokenizer : GPT2TokenizerFast
-### project 2 (text-generation) : 6_layer_nlp_model_2
+### mini-project 2 (text-generation) : 6_layer_nlp_model_2
 
 requirements : Dataset, DataLoader, torch, dataclass, argparse
 
@@ -18,7 +21,7 @@ requirements : Dataset, DataLoader, torch, dataclass, argparse
 Dataset : a small text
 
 Tokenizer : char-level tokenizer
-### project 1 (text-generation) : 6_Layer_nlp_model_1  
+### mini-project 1 (text-generation) : 6_Layer_nlp_model_1  
 
 requirements : torch
 
