@@ -1,9 +1,11 @@
 # NLP_MODELS
 ## PROJECTS
 ### mini-project 4 : Labratory_4
-بررسی عملکر مدل با معماری های مختلف و تغییر اندازه دیتای آموزش 
+بررسی عملکر مدل  مینی پروژه 3 با معماری های مختلف و تغییر اندازه دیتای آموزش 
 
-مدل پایه این آزمایش ,همان مدل پروژه 10_layer_nlp_model_3 است.
+مدل پایه این آزمایش ,همان مدل مینی پروژه 3 است
+
+main-model : 10_layer_nlp_model_3
 ### mini-project 3 : 10_layer_nlp_model_3
 
 requirements : pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_dataset
