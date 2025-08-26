@@ -1,5 +1,8 @@
 # NLP_MODELS
 ## CODES
+### code 6 : Labratory_6
+بررسی عملکر مدل کد 3 با معماری های مختلف و تغییر دیتاست ( wikitext-2 )
+
 ### code 5 : Labratory_5
 بررسی عملکرد مدل کد 3 با تغییر معماری و افزایش train_size به 30000 
 
