@@ -30,7 +30,7 @@ requirements : pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_d
 Dataset : "ag_news"
 
 Tokenizer : GPT2TokenizerFast
-### code 2 (text-generation) : 6_layer_nlp_model_2
+### code 2 : 6_layer_nlp_model_2
 
 requirements : Dataset, DataLoader, torch, dataclass, argparse
 
@@ -39,7 +39,7 @@ requirements : Dataset, DataLoader, torch, dataclass, argparse
 Dataset : a small text
 
 Tokenizer : char-level tokenizer
-### code 1 (text-generation) : 6_Layer_nlp_model_1  
+### code 1 : 6_Layer_nlp_model_1  
 
 requirements : torch
 
