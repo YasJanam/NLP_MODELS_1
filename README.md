@@ -1,4 +1,4 @@
-# NLP_MODELS
+# NLP_MODELS_1
 ## FOLDERS
 ### Folder 6 : Labratory_6
 بررسی عملکر مدل کد 3 با معماری های مختلف و تغییر دیتاست ( wikitext-2 )
