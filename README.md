@@ -29,13 +29,15 @@ main-model : 10_layer_nlp_model_3
 ---
 ### Folder 3 : 10_layer_nlp_model_3
 
-requirements : pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_dataset
+__requirements :__
+pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_dataset
 
-10 Layers : Transformer-Layers , Conv1D(kernel_sizes=3,5) , MLP (Linear-Layers)
+__10 Layers :__ 
+Transformer-Layers , Conv1D(kernel_sizes=3,5) , MLP (Linear-Layers)
 
-Dataset : "ag_news"
+__Dataset :__ "ag_news"
 
-Tokenizer : GPT2TokenizerFast
+__Tokenizer :__ GPT2TokenizerFast
 
 ---
 ### Folder 2 : 6_layer_nlp_model_2
