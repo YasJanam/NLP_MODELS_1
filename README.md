@@ -1,13 +1,15 @@
 # NLP_MODELS_1
 ## FOLDERS
+---
 ### Folder 6 : Labratory_6
 بررسی عملکر مدل کد 3 با معماری های مختلف و تغییر دیتاست ( wikitext-2 )
 
 
 مدل اصلی این کد همان مدل کد 3 است
 
-main-model : 10_layer_nlp_model_3   
+main-model : 10_layer_nlp_model_3  
 
+---
 ### Folder 5 : Labratory_5
 بررسی عملکرد مدل کد 3 با تغییر معماری و افزایش train_size به 30000 
 
@@ -15,12 +17,16 @@ main-model : 10_layer_nlp_model_3
 مدل اصلی این کد همان مدل کد 3 است
 
 main-model : 10_layer_nlp_model_3   
+
+---
 ### Folder 4 : Labratory_4
 بررسی عملکر مدل کد 3 با معماری های مختلف و تغییر اندازه دیتای آموزش 
 
 مدل پایه این آزمایش ,همان مدل کد 3 است
 
 main-model : 10_layer_nlp_model_3
+
+---
 ### Folder 3 : 10_layer_nlp_model_3
 
 requirements : pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_dataset
@@ -30,6 +36,8 @@ requirements : pytorch_lightning, Dataset, DataLoader, GPT2TokenizerFast, load_d
 Dataset : "ag_news"
 
 Tokenizer : GPT2TokenizerFast
+
+---
 ### Folder 2 : 6_layer_nlp_model_2
 
 requirements : Dataset, DataLoader, torch, dataclass, argparse
@@ -39,6 +47,8 @@ requirements : Dataset, DataLoader, torch, dataclass, argparse
 Dataset : a small text
 
 Tokenizer : char-level tokenizer
+
+---
 ### Folder 1 : 6_Layer_nlp_model_1  
 
 requirements : torch
