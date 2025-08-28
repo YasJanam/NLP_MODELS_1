@@ -4,6 +4,8 @@
 
 در این کد دو بار مدل را تغییر داده ایم و بررسی کرده ایم
 
+epoch-num = 3
+
 ## Results : 
 
 <img width="1245" height="568" alt="results" src="https://github.com/user-attachments/assets/fa26cb1c-e7e4-4da4-9e52-2485385f3fb7" />
