@@ -17,7 +17,7 @@
 | 4 | 3 | Labratory_4           | Causal | بررسی عملکرد مدل کد 3 |
 | 3 | - | 10_layer_nlp_model_3           | Causal | مدل زبانی 10 لایه |
 | 2 | - | 6_layer_nlp_model_2           | Causal | مدل زبانی 6 لایه |
-| 1 | - | 6_Layer_nlp_model_1 | - | مدل زبانی 6 لایه  |
+| 1 | - | 6_Layer_nlp_model_1 | Causal | مدل زبانی 6 لایه  |
 
 ---
 ### Folder 9 : miniBART_sumarization_9
