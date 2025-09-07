@@ -2,22 +2,22 @@
 ## FOLDERS
 
 
-| num_Folder |dependent on the code| name | Model-Type | توضیحات | 
-|:-----:|:--:|:------------------------:|:-----:|:---------------------------------------------------------:|
-| 14 | 9 | Labratory_14 | BART |  generate ارزیابی مدل حاصل از لابراتوری 13 و تعریف متد  |
-| 13 | 9 | Labratory_13 | BART | بررسی عملکرد مدل کد 9 با پیش آموزش و اموزش دوباره مدل لابراتوری 12 |
-| 12 | 9 | Labratory_12 | BART | بررسی عملکرد مدل کد 9 با پیش آموزش با متدهای فایل 11 |
-| 11 | 9 | Pretrain_Methods_11 | - | معرفی متدهای پیش آموزش و استفاده از آنها در کد 12 |
-| 10 | 9 | Labratory_10 | BART | بررسی عملکرد مدل کد 9 با یک سری تغییرات |
-| 9 | - | miniBART_sumarization_9 | BART | پیاده سازی یک مدل مینی بارت 3×3 برای خلاصه سازی |
-| 8 | - | Conv1D_vs_Transformer_8 | - | مقایسه داده های خروجی ترنسفورمر با کانولوشن یک بعدی و بدون کانولوشن یک بعدی |
-| 7 | 3 | Labratory_7  | Causal | بررسی عملکرد مدل کد 3 |
-| 6 | 3 | Labratory_6  | Causal | بررسی عملکرد مدل کد 3 |
-| 5 | 3 | Labratory_5           | Causal | بررسی عملکرد مدل کد 3 |
-| 4 | 3 | Labratory_4           | Causal | بررسی عملکرد مدل کد 3 |
-| 3 | - | 10_layer_nlp_model_3           | Causal | مدل زبانی 10 لایه |
-| 2 | - | 6_layer_nlp_model_2           | Causal | مدل زبانی 6 لایه |
-| 1 | - | 6_Layer_nlp_model_1 | Causal | مدل زبانی 6 لایه  |
+| num_Folder |dependent on the code| name | Task | Model-Type | توضیحات | 
+|:-----:|:--:|:------------------------:|:---:|:-----:|:---------------------------------------------------------:|
+| 14 | 9 | Labratory_14 | Summarization | Seq2Seq (BART) |  generate ارزیابی مدل حاصل از لابراتوری 13 و تعریف متد  |
+| 13 | 9 | Labratory_13 | Summarization | Seq2Seq (BART) | بررسی عملکرد مدل کد 9 با پیش آموزش و اموزش دوباره مدل لابراتوری 12 |
+| 12 | 9 | Labratory_12 | Summarization | Seq2Seq (BART) | بررسی عملکرد مدل کد 9 با پیش آموزش با متدهای فایل 11 |
+| 11 | 9 | Pretrain_Methods_11 | - | - | معرفی متدهای پیش آموزش و استفاده از آنها در کد 12 |
+| 10 | 9 | Labratory_10 | Summarization | Seq2Seq (BART) | بررسی عملکرد مدل کد 9 با یک سری تغییرات |
+| 9 | - | miniBART_sumarization_9 | Summarization | Seq2Seq (BART) | پیاده سازی یک مدل مینی بارت 3×3 برای خلاصه سازی |
+| 8 | - | Conv1D_vs_Transformer_8 | - | - | مقایسه داده های خروجی ترنسفورمر با کانولوشن یک بعدی و بدون کانولوشن یک بعدی |
+| 7 | 3 | Labratory_7  | Text-Generation | Causal | بررسی عملکرد مدل کد 3 |
+| 6 | 3 | Labratory_6  | Text-Generation | Causal | بررسی عملکرد مدل کد 3 |
+| 5 | 3 | Labratory_5           | Text-Generation | Causal | بررسی عملکرد مدل کد 3 |
+| 4 | 3 | Labratory_4           | Text-Generation | Causal | بررسی عملکرد مدل کد 3 |
+| 3 | - | 10_layer_nlp_model_3           | Text-Generation | Causal | مدل زبانی 10 لایه |
+| 2 | - | 6_layer_nlp_model_2           | - | Causal | مدل زبانی 6 لایه |
+| 1 | - | 6_Layer_nlp_model_1 | - | Causal | مدل زبانی 6 لایه  |
 
 ---
 ### Folder 9 : miniBART_sumarization_9
