@@ -2,7 +2,7 @@
 ## FOLDERS
 
 
-| num_Folder |dependent on the code| name | Task | Model-Type | توضیحات | 
+| num_Folder |related to| name | Task | Model-Type | توضیحات | 
 |:-----:|:--:|:------------------------:|:---:|:-----:|:---------------------------------------------------------:|
 | 14 | 9 | Labratory_14 | Summarization | Seq2Seq (BART) |  generate ارزیابی مدل حاصل از لابراتوری 13 و تعریف متد  |
 | 13 | 9 | Labratory_13 | Summarization | Seq2Seq (BART) | بررسی عملکرد مدل کد 9 با پیش آموزش و اموزش دوباره مدل لابراتوری 12 |
